@@ -124,8 +124,16 @@ Além disso, foram realizadas análises para determinar qual caminho faria mais 
 <br>
 
 - 📢 **Mapeamento do perfil do usuário (Adiado para o Módulo 2)**  
-  Embora tenha sido iniciado, o mapeamento do perfil do usuário/consumidor sustentável foi realocado para ser aprofundado no próximo módulo.  
-  O foco nesta sprint permaneceu na definição da ideia central do projeto.
+  Embora tenha sido iniciado, o mapeamento do perfil do usuário/consumidor sustentável foi realocado para ser aprofundado no próximo módulo. O foco nesta sprint permaneceu na definição da ideia central do projeto.
+
+  Essa decisão estratégica foi tomada para garantir que a definição da solução estivesse devidamente consolidada antes da coleta de dados qualitativos.  
+
+  A antecipação do mapeamento poderia gerar inconsistências, uma vez que o projeto ainda estava em processo de consolidação conceitual.  
+
+  Assim, optou-se por adiar essa etapa para assegurar que a investigação do perfil do usuário ocorra de forma mais precisa e alinhada ao produto proposto.
+
+  O foco nesta sprint, portanto, permaneceu na consolidação da ideia central do projeto, garantindo uma base sólida para as próximas fases de pesquisa e desenvolvimento.
+
 
 <br>
 
@@ -144,6 +152,18 @@ Definir o conceito do projeto empreendedor, consolidar a hipótese de solução 
 Durante a **Sprint 4**, o foco foi aprofundar a base conceitual e prática do projeto, com o objetivo de refinar insights e estruturar as primeiras telas e funcionalidades da solução proposta.
 
 📢Embora a previsão inicial envolvesse a avaliação de modelos sustentáveis e impactos ambientais, a Sprint evoluiu para um caminho mais aplicado e exploratório.
+
+Essa mudança de direcionamento ocorreu de maneira estratégica, pois, em conjunto com a professora orientadora, identifiquei a necessidade de priorizar a experimentação prática e a estruturação inicial da solução proposta. Considerou-se essencial:
+
+- Explorar o conhecimento empírico relacionado às técnicas manuais, fortalecendo a fundamentação prática do MVP;
+
+- Testar e desenvolver habilidades artesanais básicas, como o crochê, para compreender melhor os desafios e particularidades do fazer manual;
+
+- Investigar os diferenciais técnicos de softwares como CLO 3D e Knitting Genius, identificando lacunas e oportunidades para a proposta tecnológica;
+
+- Estruturar os wireframes iniciais, antecipando visualmente o fluxo e a experiência do usuário da solução a ser desenvolvida.
+
+Dessa forma, a evolução para uma abordagem mais prática e exploratória foi fundamental para consolidar bases práticas, alinhar as expectativas do projeto e garantir que a solução proposta seja viável, inovadora e efetivamente alinhada às demandas do setor.
 
 <br>
 
