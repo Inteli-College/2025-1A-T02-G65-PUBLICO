@@ -6,7 +6,8 @@ The first module of the project aimed to conduct an in-depth mapping of the chal
 In this module, an exploratory and investigative approach was adopted, structured around three main axes: research, analysis, and practice.
 
 <br>
-Sprint 1
+## Sprint 1
+
 During Sprint 1, the goal was to investigate the main challenges of sustainable fashion and contextualize the problem within the sector.
 
 <br>
@@ -37,7 +38,8 @@ Completion of the project plan, meeting forms, and tracking forms, formalizing t
 Build the initial conceptual and strategic foundation of the project, providing input for the next stages of deepening and solution development.
 
 <br>
-Sprint 2
+## Sprint 2
+
 During Sprint 2, the objective was to gather quantitative and qualitative data to support the project, analyzing trends, impacts, and existing business models.
 
 Additionally, this sprint was also dedicated to reflecting on personal goals for the project and areas of greatest interest, guiding strategic choices for the next phases.
@@ -70,7 +72,8 @@ Expansion and refinement of the glossary by incorporating new relevant concepts 
 Support the project with strategic information and critical analysis, strengthening the theoretical and market foundation for building innovative and sustainable solutions in the next modules.
 
 <br>
-Sprint 3
+## Sprint 3
+
 During Sprint 3, we moved on to the phase of defining and consolidating the entrepreneurial project proposal. The focus was on formulating concrete hypotheses regarding the solution's viability, evaluating technologies and sustainable strategies.
 
 Additionally, analyses were carried out to determine the most suitable path for the project, culminating in the selection of the priority hypothesis.
@@ -108,7 +111,8 @@ The focus of this sprint, therefore, remained on consolidating the central idea 
 Define the concept of the entrepreneurial project, consolidate the solution hypothesis, and establish a structured foundation for the MVP development, aligning innovation, sustainability, and technological viability.
 
 <br>
-Sprint 4
+## Sprint 4
+
 During Sprint 4, the focus was on deepening the conceptual and practical foundation of the project, aiming to refine insights and structure the first screens and functionalities of the proposed solution.
 
 📢 Although the initial plan involved evaluating sustainable models and environmental impacts, the sprint evolved into a more applied and exploratory path.
@@ -153,7 +157,7 @@ Discussion on existing "gaps" in the market and identification of strategic oppo
 Refine theoretical and practical learnings, structure the first prototypes of the project, and align the proposed solution with real market demands, focusing on innovation, sustainability, and democratization of knowledge.
 
 <br>
-Sprint 5
+## Sprint 5
 <br>
 During Sprint 5, the focus was on consolidating and qualifying the project's documentation, organizing the material produced, and preparing the transition to the next modules.
 
