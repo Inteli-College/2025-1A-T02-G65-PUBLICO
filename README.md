@@ -3,9 +3,8 @@
 
 The first module of the project aimed to conduct an in-depth mapping of the challenges, opportunities, and trends in the sustainable fashion sector, with the objective of building a solid foundation for the development of the next phases of the project.  
 <br>
-
-An exploratory and investigative approach was adopted, structured around three main axes: research, analysis, and practice.  
-<br><br>
+Sprint 1
+During Sprint 1, the goal was to investigate the main challenges of sustainable fashion and contextualize the problem within the sector.
 
 ## 🚀 Sprint 1 – Problem Exploration and Conceptual Foundation  
 <br>
@@ -41,6 +40,8 @@ Build the initial conceptual and strategic foundation of the project, providing 
 
 ## 🚀 Sprint 2 – Market Research and Strategic Alignment  
 <br>
+Sprint 2
+During Sprint 2, the objective was to gather quantitative and qualitative data to support the project, analyzing trends, impacts, and existing business models.
 
 ## 🛠️ Main Deliverables:  
 <br>
@@ -73,6 +74,8 @@ Support the project with strategic information and critical analysis, strengthen
 
 ## 🚀 Sprint 3 – Hypotheses Structuring and Solution Definition  
 <br>
+Sprint 3
+During Sprint 3, we moved on to the phase of defining and consolidating the entrepreneurial project proposal. The focus was on formulating concrete hypotheses regarding the solution's viability, evaluating technologies and sustainable strategies.
 
 ## 🛠️ Main Deliverables:  
 <br>
@@ -100,14 +103,28 @@ Thus, it was decided to defer this step to ensure that the user profile research
 
 ## 🎯 Sprint Objective:  
 <br>
+Define the concept of the entrepreneurial project, consolidate the solution hypothesis, and establish a structured foundation for the MVP development, aligning innovation, sustainability, and technological viability.
 
-Define the concept of the entrepreneurial project, consolidate the solution hypothesis, and establish a structured foundation for the MVP development, aligning innovation, sustainability, and technological viability.  
-<br><br>
-
-## 🚀 Sprint 4 – Practical Exploration and Wireframe Development  
 <br>
+Sprint 4
+During Sprint 4, the focus was on deepening the conceptual and practical foundation of the project, aiming to refine insights and structure the first screens and functionalities of the proposed solution.
 
-## 🛠️ Main Deliverables:  
+📢 Although the initial plan involved evaluating sustainable models and environmental impacts, the sprint evolved into a more applied and exploratory path.
+
+This strategic shift occurred because, together with the academic advisor, I identified the need to prioritize practical experimentation and the initial structuring of the proposed solution. It was considered essential to:
+
+Explore empirical knowledge related to manual techniques, strengthening the practical foundation of the MVP;
+
+Test and develop basic artisanal skills, such as crochet, to better understand the challenges and particularities of manual work;
+
+Investigate the technical differentials of software like CLO 3D and Knitting Genius, identifying gaps and opportunities for the technological proposal;
+
+Structure the initial wireframes, visually anticipating the flow and user experience of the solution to be developed.
+
+Thus, evolving into a more practical and exploratory approach was crucial to consolidate practical foundations, align project expectations, and ensure that the proposed solution would be viable, innovative, and effectively aligned with sector demands.
+
+<br>
+🛠️ Main Deliverables:
 <br>
 
 - 🧠 **Theoretical Exploration on Empirical Knowledge**  
