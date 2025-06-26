@@ -1,3 +1,62 @@
+## 📊 Planned vs. Achieved – Module 14
+
+### 🧩 Introduction
+Module 14 focused on the planning and conceptual structuring phase of the project, based on a user-centered and practical validation approach. During its execution, the team aimed to align the planned deliverables with the original schedule, but adjustments became necessary as the project evolved and new demands emerged.
+
+This shift occurred mainly because the interviews conducted in Sprint 3 were much more comprehensive than initially planned. As a result, the project expanded, new ideas emerged (“POW” moments), and potential new features were identified. We are still awaiting an interview with a partner company to finalize this discovery cycle.
+
+### 💡 Justification for the Changes
+The changes in the timeline and deliverables resulted from an unexpected deepening in the qualitative interviews, which revealed previously unconsidered opportunities. The high engagement of participants and the richness of insights led to an expanded project vision, requiring more time to structure ideas, prioritize functionalities, and adapt the prototype. The validation process with real users and the expectation of collaborating with companies in the sector also justified the rescheduling of phases.
+
+#### 🧱 Module 14 – Sprint Breakdown
+
+**🗕️ Sprint 1 (Feb 21 – May 2)**
+- Project plan development
+- Meeting and deliverables planning
+- TAPI update
+
+**🗕️ Sprint 2 (May 5 – May 16)**
+- Persona creation
+- Empathy map
+- Qualitative interviews with real users
+- Start of wireframes
+
+**🗕️ Sprint 3 (May 19 – May 30)**
+- User journey mapping
+- Continuation of wireframes
+- Mapping of core technologies
+
+**🗕️ Sprint 4 (June 2 – June 13)**
+- High-fidelity prototype (Figma)
+- Wireframe refinement
+- Technical report + roadmap
+
+**🗕️ Sprint 5 (June 16 – June 27)**
+- Final user testing
+- Results report
+- MVP adjustments + final presentation
+
+---
+
+| **Planned (Module 14)**                     | **Achieved**    | **Notes**                                                    |
+| ------------------------------------------- | --------------- | ------------------------------------------------------------ |
+| Project plan development                    | ✅ Completed     | Aligned with the schedule                                   |
+| Meeting and deliverables planning           | ✅ Completed     | Meetings held as planned                                    |
+| TAPI update                                 | ✅ Completed     | Document reviewed and finalized                             |
+| Persona creation                            | ✅ Completed     | Three personas defined based on interviews                  |
+| Empathy map                                 | ✅ Completed     | Related to the main personas                                |
+| Qualitative interviews with real users      | ✅ Completed     | 3 interviews conducted; scheduling difficulties limited further participation |
+| Start of wireframes                         | ✅ Completed     | First version started as scheduled                          |
+| User journey mapping                        | ✅ Completed     | Journey based on interviews                                 |
+| Wireframe development                       | ✅ Completed     | Version created in Figma                                    |
+| Mapping of core technologies                | ⚠️ In progress   | Partially defined; testing still needed                     |
+| High-fidelity prototype (Figma)             | ✅ Completed     | All screens in high fidelity; overall flow is under refinement |
+| Wireframe refinement                        | ⚠️ In progress   | Still being refined, awaiting final interview               |
+| Technical report + roadmap                  | ⚠️ In progress   | Drafting in progress                                        |
+| Final user testing                          | 🔄 Adapting      | Step went through strategic reformulation; current focus is on defining validation methods, with emphasis on heuristic analysis as an initial alternative to direct user testing |
+
+
+
 # 📚 Module 1 – Fashion and Sustainability  
 <br>
 
@@ -200,3 +259,7 @@ Review and update of README files for each sprint, ensuring full understanding o
 
 Consolidate the project's documentation, qualifying the material produced to ensure a solid and structured base for the continuation of development in the following modules.  
 <br>
+
+
+<br>
+

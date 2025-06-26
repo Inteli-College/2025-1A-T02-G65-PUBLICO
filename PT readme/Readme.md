@@ -1,3 +1,62 @@
+## 📊 Comparativo Planejado x Realizado – Módulo 14
+
+### 🧩 Introdução
+O Módulo 14 teve como foco a etapa de planejamento e estruturação conceitual do projeto, com base em uma abordagem centrada no usuário e validação prática. Durante sua execução, buscou-se alinhar as entregas previstas ao cronograma original, mas ajustes foram necessários à medida que o projeto evoluiu e novas demandas surgiram.
+
+Isso se deu principalmente porque as entrevistas realizadas na Sprint 3 foram muito mais abrangentes do que o planejado inicialmente. Como resultado, o projeto evoluiu, surgiram ideias inovadoras (“POW” de ideias) e foram identificadas possíveis novas funcionalidades. Ainda estamos aguardando uma entrevista com uma empresa parceira para finalizar esse ciclo de descobertas.
+
+### 💡 Justificativa para as Mudanças
+As mudanças observadas no cronograma e nas entregas decorreram de um aprofundamento inesperado nas entrevistas qualitativas, que revelaram oportunidades de exploração não previstas. O maior engajamento dos participantes e a riqueza das contribuições levaram a uma expansão da visão do projeto, exigindo maior tempo para sistematização das ideias, priorização de funcionalidades e adequação do protótipo. O processo de validação com usuários reais e a expectativa de interlocução com empresas do setor também justificam o redimensionamento de etapas.
+
+#### 🧱 Módulo 14 – Detalhamento dos Sprints
+
+**🗕️ Sprint 1 (21 de fevereiro – 2 de maio)**
+- Desenvolvimento do plano de projeto
+- Planejamento de reuniões e entregas
+- Atualização da TAPI
+
+**🗕️ Sprint 2 (5 – 16 de maio)**
+- Criação de personas
+- Mapa de empatia
+- Entrevistas qualitativas com usuários reais
+- Início dos wireframes
+
+**🗕️ Sprint 3 (19 – 30 de maio)**
+- Mapeamento da jornada do usuário
+- Continuação dos wireframes
+- Mapeamento das tecnologias principais
+
+**🗕️ Sprint 4 (2 – 13 de junho)**
+- Protótipo de alta fidelidade (Figma)
+- Refinamento dos wireframes
+- Relatório técnico + roadmap
+
+**🗕️ Sprint 5 (16 – 27 de junho)**
+- Testes finais com usuários
+- Relatório de resultados
+- Ajustes do MVP + apresentação final
+
+---
+
+| **Planejado (Módulo 14)**                   | **Realizado**   | **Observações**                                 |
+| ------------------------------------------- | --------------- | ----------------------------------------------- |
+| Desenvolvimento do plano de projeto         | ✅ Concluído     | Alinhado com cronograma                         |
+| Planejamento de reuniões e entregas         | ✅ Concluído     | Reuniões realizadas conforme agenda             |
+| Atualização da TAPI                         | ✅ Concluído     | Documento revisado e finalizado                 |
+| Criação de personas                         | ✅ Concluído     | Três personas definidas com base em entrevistas |
+| Mapa de empatia                             | ✅ Concluído     | Relacionado às personas principais              |
+| Entrevistas qualitativas com usuários reais | ✅ Concluído     | 3 entrevistas realizadas; dificuldades de agenda limitaram a participação de mais usuários |
+| Início dos wireframes                       | ✅ Concluído     | Primeira versão iniciada conforme previsto      |
+| Mapeamento da jornada do usuário            | ✅ Concluído     | Jornada baseada nas entrevistas                 |
+| Desenvolvimento de wireframes               | ✅ Concluído     | Versão criada no Figma                          |
+| Mapeamento das tecnologias principais       | ⚠️ Em andamento | Definido parcialmente, faltam testes            |
+| Protótipo de alta fidelidade (Figma)        | ✅ Concluído     | Todas as telas estão em alta fidelidade; o conjunto do fluxo está em refinamento |
+| Refinamento dos wireframes                  | ⚠️ Em andamento | Processo em refinamento, aguardando entrevista final |
+| Relatório técnico + roadmap                 | ⚠️ Em andamento | Redação em progresso                            |
+| Testes finais com usuários                  | 🔄 Em adaptação | Etapa passou por uma reformulação estratégica; o foco atual está na definição das abordagens de validação, com destaque para a possibilidade de aplicação de uma análise heurística como alternativa inicial aos testes diretos com usuários. |
+
+
+
 ## 📚  Módulo 1 - Moda e Sustentabilidade
 
 O primeiro módulo do projeto teve como escopo a realização de um mapeamento aprofundado dos desafios, oportunidades e tendências no setor da moda sustentável, com o objetivo de construir uma base sólida para o desenvolvimento das próximas fases do projeto.
