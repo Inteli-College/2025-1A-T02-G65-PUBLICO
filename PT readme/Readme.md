@@ -1,3 +1,88 @@
+# 📊 Módulo 15  
+
+O **Módulo 15** representou a **consolidação técnica e conceitual** do meu projeto, com o objetivo de transformar as ideias desenvolvidas no Módulo 14 em um **protótipo funcional**, validado e contextualizado para a **apresentação final**.  
+Ao longo das cinco sprints, realizei avanços significativos na **estruturação do front-end**, na **formalização do modelo matemático (gauge)** e na **integração entre crochê e computação**, culminando na **apresentação de pré-banca**.
+
+---
+
+## 🧩 Sprint 1 – Preparação e Estruturação do Projeto  
+
+Nesta sprint, foquei em **configurar o ambiente de desenvolvimento** e definir a **stack tecnológica** que sustentaria o MVP.  
+Configurei dependências essenciais (Next.js 15, React 19, TypeScript, TailwindCSS, ESLint e Recharts), organizei as pastas principais e padronizei os scripts de execução e build.  
+
+**Principais Entregas:**  
+- Ambiente front-end funcional  
+- Arquitetura base definida  
+- Documentação técnica inicial  
+
+---
+
+## 🧵 Sprint 2 – Jornada do Usuário e Protótipo Inicial  
+
+O foco desta sprint foi **projetar o fluxo inicial da jornada do usuário**, criando um formulário dividido em três etapas (Medidas, Materiais e Planejamento da Peça).  
+Desenvolvi o primeiro **protótipo interativo no Figma**, representando a versão inicial da experiência de uso, e validei a estrutura do front-end localmente.  
+Durante os testes, percebi que iniciar o fluxo pela etapa de medidas gerava maior abandono, o que me levou a propor uma **nova ordem de etapas**, começando pela **definição da peça**.  
+
+**Principais Entregas:**  
+- Protótipo interativo (v0)  
+- Estrutura de front-end validada  
+- Proposta de melhoria e reorganização do fluxo  
+
+---
+
+## ⚙️ Sprint 3 – Ajuste de Escopo e Prova de Conceito (PoC)  
+
+Nesta sprint, o foco foi **validar o modelo matemático** de conversão de medidas em pontos e carreiras (gauge).  
+Devido a limitações técnicas e de infraestrutura, ajustei o escopo para desenvolver uma **Prova de Conceito (PoC)** mais simples, que demonstrou a viabilidade do **Mapa de Pontos** gerado automaticamente via JavaScript.  
+Essa etapa confirmou a coerência dos cálculos e serviu como base para a integração futura com o front-end completo.  
+
+**Principais Entregas:**  
+- PoC funcional do Mapa de Pontos  
+- Modelo matemático validado  
+- Documentação técnica atualizada  
+
+---
+
+## 📐 Sprint 4 – Formalização do Modelo de Gauge e Classificação CYC  
+
+O foco da Sprint 4 foi **consolidar a base teórica e técnica** do projeto.  
+Documentei os fundamentos do **modelo de gauge**, as **fórmulas de conversão** e a **classificação CYC (Craft Yarn Council)** — padrão internacional que define espessuras de fios, tamanhos de agulhas e densidades médias de pontos.  
+Essa formalização trouxe **robustez científica** ao projeto e estabeleceu parâmetros universais para o cálculo automático do mapa de pontos.  
+
+**Principais Entregas:**  
+- Documentação do modelo de gauge e tabela CYC  
+- Calibração experimental com amostra 10×10 cm  
+- Modelo matemático consolidado  
+
+---
+
+## 💻 Sprint 5 – Pré-Banca e Consolidação Conceitual  
+
+Nesta sprint, concentrei-me na **preparação e realização da apresentação de pré-banca**.  
+Essa etapa serviu como **marco de validação conceitual**, reforçando a coerência entre o problema, a solução proposta e o público-alvo.  
+Busquei construir uma narrativa que unisse **crochê e computação**, fazendo referência a **Ada Lovelace** e aos **teares de Jacquard**, fortalecendo a dimensão simbólica e histórica do projeto.  
+
+Em paralelo, desenvolvi o **mapa funcional no Figma**, baseado no modelo de gauge implementado anteriormente.  
+Apesar dos avanços, **alguns erros técnicos no mapa de pontos** impediram a finalização dos **testes oficiais de usabilidade e precisão** dentro do prazo do módulo.  
+Além disso, a preparação da pré-banca exigiu **ajustes visuais e conceituais**, reduzindo o tempo disponível para os testes completos.  
+
+Esses testes, entretanto, **já estão planejados para o Módulo 16**, onde serão realizados de forma controlada, validando empiricamente o modelo de geração de mapas e analisando seus resultados.  
+
+**Principais Entregas:**  
+- Protótipo atualizado no Figma (mapa funcional)  
+- Apresentação de pré-banca concluída  
+- Feedbacks incorporados e planejamento de ajustes finais  
+
+---
+
+## 🧶 Síntese do Módulo 15  
+
+O **Módulo 15** marcou a **maturação do projeto**, unindo fundamentos técnicos, matemáticos e conceituais.  
+Com a base digital validada e o modelo teórico consolidado, o projeto avança agora para a **fase de testes formais e defesa final**, que serão realizados no **Módulo 16**, completando o ciclo entre **teoria, prototipagem e validação prática**.
+
+
+
+
 ## 📊 Comparativo Planejado x Realizado – Módulo 14
 
 ### 🧩 Introdução
