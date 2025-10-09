@@ -1,3 +1,110 @@
+# 📊 Module 15  
+
+Module 15 represented the **technical and conceptual consolidation** of my project, aiming to transform the ideas developed in Module 14 into a **functional prototype**, validated and contextualized for the final presentation.  
+Throughout the five sprints, I made significant progress in **structuring the front end**, **formalizing the mathematical gauge model**, and **integrating crochet and computing**, culminating in the **pre-defense presentation**.
+
+---
+
+## 🧩 Sprint 1 – Preparation and Project Structuring  
+
+In this sprint, I focused on **configuring the development environment** and defining the **technological stack** that would support the MVP.  
+I set up essential dependencies (Next.js 15, React 19, TypeScript, TailwindCSS, ESLint, and Recharts), organized the main folders, and standardized the build and execution scripts.  
+
+**Main Deliverables:**  
+- Functional front-end environment  
+- Base architecture defined  
+- Initial technical documentation  
+
+---
+
+## 🧵 Sprint 2 – User Journey and Initial Prototype  
+
+The focus of this sprint was to **design the initial user journey flow**, creating a three-step form (Body Measurements, Materials, and Project Planning).  
+I developed the first **interactive prototype in Figma**, representing the initial version of the user experience, and validated the front-end structure locally.  
+During testing, I realized that starting the flow with the measurement step increased user drop-offs, which led me to propose a **new step order**, beginning with **piece definition** instead.  
+
+**Main Deliverables:**  
+- Interactive prototype (v0)  
+- Validated front-end structure  
+- Improved and reorganized user flow  
+
+---
+
+## ⚙️ Sprint 3 – Scope Adjustment and Proof of Concept (PoC)  
+
+In this sprint, the focus was to **validate the mathematical model** for converting body measurements into stitches and rows (gauge).  
+Due to technical and infrastructure limitations, I adjusted the scope to develop a **simplified Proof of Concept (PoC)** that demonstrated the feasibility of the **Point Map**, automatically generated through JavaScript.  
+This stage confirmed the consistency of the calculations and served as a foundation for future integration with the complete front end.  
+
+**Main Deliverables:**  
+- Functional PoC of the Point Map  
+- Mathematical model validated  
+- Technical documentation updated  
+
+---
+
+## 📐 Sprint 4 – Gauge Model Formalization and CYC Classification  
+
+The focus of Sprint 4 was to consolidate the **theoretical and technical foundations** of the project.  
+I documented the principles of the **gauge model**, the **conversion formulas**, and the **CYC (Craft Yarn Council) classification** — an international standard that defines yarn thickness, hook sizes, and average stitch densities.  
+This formalization added **scientific robustness** to the project and established universal parameters for the automatic calculation of the point map.  
+
+**Main Deliverables:**  
+- Documentation of the gauge model and CYC table  
+- Experimental calibration with 10×10 cm sample  
+- Consolidated mathematical model  
+
+---
+
+## 💻 Sprint 5 – Pre-Defense and Conceptual Consolidation  
+
+In this sprint, I focused on **preparing and delivering the pre-defense presentation**.  
+This stage served as a **conceptual validation milestone**, reinforcing the coherence between the identified problem, the proposed solution, and the target audience.  
+I aimed to build a narrative that connected **crochet and computing**, referencing **Ada Lovelace** and the **Jacquard looms**, strengthening the conceptual and historical context of the project.  
+
+In parallel, I developed the **functional map in Figma**, based on the previously implemented gauge model.  
+Despite significant progress, **some technical errors in the point map** prevented me from completing the **official usability and accuracy tests** within the module’s timeframe.  
+Additionally, preparing for the pre-defense required **visual and conceptual refinements**, which reduced the available time for full testing.  
+
+However, these tests are **already planned for Module 16**, where they will be conducted in a controlled environment to **empirically validate the map generation model** and analyze its performance.  
+
+**Main Deliverables:**  
+- Updated prototype in Figma (functional map)  
+- Pre-defense presentation completed  
+- Feedback incorporated for final adjustments  
+
+---
+
+## 🧶 Module 15 Synthesis  
+
+Module 15 marked the **maturation of the project**, integrating technical, mathematical, and conceptual foundations.  
+With a validated digital base and a consolidated theoretical model, the project now moves toward the **formal testing phase and final defense**, which will take place in Module 16 — completing the cycle between **theory, prototyping, and practical validation**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 📊 Planned vs. Achieved – Module 14
 
 ### 🧩 Introduction
