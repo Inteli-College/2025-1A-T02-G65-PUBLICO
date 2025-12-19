@@ -164,7 +164,7 @@ The changes in the timeline and deliverables resulted from an unexpected deepeni
 
 
 
-# 📚 Module 1 – Fashion and Sustainability  
+# 📚 Module 13 – Fashion and Sustainability  
 <br>
 
 The first module of the project aimed to conduct an in-depth mapping of the challenges, opportunities, and trends in the sustainable fashion sector, with the objective of building a solid foundation for the development of the next phases of the project.  
